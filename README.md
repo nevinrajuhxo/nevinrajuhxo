@@ -26,10 +26,10 @@ With a passion for building efficient and scalable web applications, I have hone
 
 - **Email:** [nevin.raju@example.com](mailto:nevin.raju@example.com)
 - **LinkedIn:** [linkedin.com/in/nevin-raju](https://linkedin.com/in/nevin-raju)
-- **GitHub:** [github.com/nevin-raju](https://github.com/nevin-raju)
+- **GitHub:** [github.com/nevin-raju](https://github.com/nevinrajuhxo)
 
 Feel free to explore my repositories and connect with me!
 
 ---
 
-⭐️ From [Nevin Raju](https://github.com/nevin-raju)
+⭐️ From [Nevin Raju](https://github.com/nevinrajuhxo)
